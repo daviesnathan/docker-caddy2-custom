@@ -1,2 +1,5 @@
-# docker-caddy2-route53
-Caddy 2 build including Route53 DNS provider module
+# docker-caddy2-custom
+
+Custom Caddy v2 build including:
+  - Project Concept (TCP/UDP) app for Caddy
+  - Route53 DNS Provider
